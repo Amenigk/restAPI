@@ -1,0 +1,36 @@
+
+body{
+background-color: rgb(242, 247, 224);
+}
+
+input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #555;
+    border-radius: 3px;
+    text-align: center;
+  }
+
+ h1{
+    text-align: center;
+    text-decoration: wavy;
+    text-shadow: #555;
+    
+ } 
+ .buttonstyle {
+   border-radius: 3px;
+   width: 30%;
+   border: 2px solid #555;
+   margin: 5px;
+
+}
+.userbox{
+   width: 300px;
+   height: 200px;
+   padding: 50px;
+   margin: 20px;
+   border: 1px solid red;
+
+}
